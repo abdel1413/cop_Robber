@@ -87,6 +87,5 @@ def testCopRobber():
     G.movePlayer('C', 'b')
     G.display()
 
-    # TEST THIS OUT MORE!
-    # TKINTER - Email with 3 tkinter - Look at Helper3
+    
     
